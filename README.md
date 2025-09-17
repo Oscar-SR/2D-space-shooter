@@ -13,7 +13,7 @@ Main menu:
 ![Main menu](Images/main_menu.png)
 
 Gameplay:
-![Gameplay](Images/main_menu.png)
+![Gameplay](Images/gameplay.png)
 
 Final boss:
 ![Final boss](Images/final_boss.png)
